@@ -1,7 +1,7 @@
 # hello-world
 Um pouco sobre mim.
 
-Olá, eu sou o André, estudante do 3º ano do curso de Ciência da Computação, trabalho com automação de tarefas em uma contabilidade.
+Olá, eu sou o André, estudante do 3º ano do curso de Ciência da Computação, trabalho com automação de tarefas, RPA.
 
 As linguagens que mais gostei de estudar e praticar são: Java, Python, Arduino e SQL.\
 Já estudei algumas linguagens relacionadas a programação de jogos, e quero distância!
