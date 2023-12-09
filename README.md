@@ -1,13 +1,8 @@
 # hello-world
-Um pouco sobre mim.
+A little about me
 
-Olá, eu sou o André, estudante do 3º ano do curso de Ciência da Computação, trabalho com automação de tarefas, RPA.
+I'm graduating in Computer Science by PUCPR.
 
-As linguagens que mais gostei de estudar e praticar são: Java, Python, Arduino e SQL.\
-Já estudei algumas linguagens relacionadas a programação de jogos, e quero distância!
+what i most enjoy doing in my area is developing web pages and architecting software, but for money I have built java applications, python A.I., web pages, the only thing i wouldn't dare to touch again is game development.
 
-Atualmente minha linguagem de programação principal é o Python, que utilizo no meu principal projeto, o PIA.
-
-O PIA, é um robô que automatiza tarefas repetitivas, ele é capaz de interagir com páginas web, sistemas windows, banco de dados, imagens. Pretendo implementar algo relacionado a I.A. para o robô no futuro.
-
-A maioria dos meus projetos públicos está armazenado em uma de minhas organizações
+what I use most to program today is React and Python.
